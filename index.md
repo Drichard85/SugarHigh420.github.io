@@ -6,3 +6,6 @@
 
 + ***A few of my pics***
 + ***A few of my likes***
+
+Take a look at [My Favorite Store](https://www.amazon.com)
+
