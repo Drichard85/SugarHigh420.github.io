@@ -9,6 +9,6 @@
 
 ![Flower](callalilly.jpg)
 
-+ ***find out more in my bio*** [ME](bio)
++ ***find out more about*** [ME](bio)
 
 
