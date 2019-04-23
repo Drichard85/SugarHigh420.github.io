@@ -6,6 +6,8 @@
 
 + ***A few of my pics***
 
+! [favorite flower] (callalilly.jpg)
+
 + ***A few of my likes***
 
 Take a look at [My Favorite Store](https://www.amazon.com)
