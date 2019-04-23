@@ -20,3 +20,5 @@
 
 ![](FENTY.jpg)
 
+[HOME](INDEX)
+
