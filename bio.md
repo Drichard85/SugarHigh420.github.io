@@ -6,6 +6,6 @@
 2. I love learning new things
 3. My favorite flower is the calla lily
 4. I love junk food
-5. ! [I love drinking](dionne.png)
+5. ![I love drinking](dionne.png)
 
 
