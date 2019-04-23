@@ -20,5 +20,7 @@
 
 ![](FENTY.jpg)
 
-[HOME](INDEX)
+[IFSM](topic)
+
+[HOME](index)
 
