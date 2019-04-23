@@ -1,4 +1,11 @@
 # Dionne Richard
 ----------------
-## My favorite flower is the calla lily 
-![favorite flower](https://www.bing.com/images/search?q=calla+lily&form=HDRSC2&first=1&cw=1129&ch=497#CA!MoreHoverActions "calla lily")
+## A little about me
+
+1. I love to read
+2. I love learning new things
+3. My favorite flower is the calla lily
+4. I love junk food
+5. ! [I love drinking](dionne.png)
+
+
