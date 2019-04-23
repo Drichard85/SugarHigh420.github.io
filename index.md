@@ -4,11 +4,12 @@
 
 ## IFSM201 Assgn4 Markdown
 
-+ ***A few of my pics***
++ ***Favorite flower***
+
 
 ![Flower](callalilly.jpg)
 
-+ ***A few of my likes***
++ ***find out more in my bio*** [ME](bio)
 
 Take a look at [My Favorite Store](https://www.amazon.com)
 
