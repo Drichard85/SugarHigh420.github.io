@@ -9,7 +9,7 @@
 
 ![Flower](callalilly.jpg)
 
-+ ***find out more in my bio*** [ME](bio.md)
++ ***find out more in my bio*** [ME](bio)
 
 Take a look at [My Favorite Store](https://www.amazon.com)
 
