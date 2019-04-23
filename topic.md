@@ -1,1 +1,9 @@
+![](computer2.jpg)
+
+
+
 Today at least a basic understanding of Computer Technology is necessary to function in this digital world. Computer Technology includes harware and software of a computer system. Using this technology is called [computing](http://www.businessdictionary.com/definition/computing.html). 
+
+![](computer1.jpg)
+
+[HOME](index)
