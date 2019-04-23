@@ -6,7 +6,7 @@
 
 + ***A few of my pics***
 
-! [favorite flower] (callalilly.jpg)
+![Flower](callalilly.jpg)
 
 + ***A few of my likes***
 
