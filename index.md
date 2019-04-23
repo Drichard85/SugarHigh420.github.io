@@ -11,5 +11,4 @@
 
 + ***find out more in my bio*** [ME](bio)
 
-Take a look at [My Favorite Store](https://www.amazon.com)
 
