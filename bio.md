@@ -6,16 +6,21 @@
 + My favorite books are the Twilight searies. 
 2. I love learning new things
 + Right now I'm learning how to sew and my goal is to be able to sew my own dress. 
-3. My favorite flower is the calla lily
 
+3. My favorite flower is the calla lily
 
 
 ![Flower](callalilly.jpg)
 + I have artwork in my room that features these beautiful white calla lillies. 
+
 4. I love junk food
+
 + Candy and Doritoes are my weakness. I probably should exercise more because of this.
+
 5. Take a look at [My Favorite Store](https://www.amazon.com)
+
 6. I may also love drinking..
+
 ![I love drinking](dionne.png)
 
 8. My favorite make up is [fenty](https://www.fentybeauty.com/)
