@@ -7,6 +7,10 @@
 2. I love learning new things
 + Right now I'm learning how to sew and my goal is to be able to sew my own dress. 
 3. My favorite flower is the calla lily
+
+
+
+![Flower](callalilly.jpg)
 + I have artwork in my room that features these beautiful white calla lillies. 
 4. I love junk food
 + Candy and Doritoes are my weakness. I probably should exercise more because of this.
