@@ -1,38 +1,27 @@
-# Dionne Richard
+# SugarHigh
 ----------------
-## A little about me
+## Hi Sugar! Welcome to the best marijuana infused pastry shop on the market. Have a look around
 
-+ I love to read
-My favorite books are the Twilight searies. 
-+ I love learning new things
-Right now I'm learning how to sew and my goal is to be able to sew my own dress. 
+Cheesecakes:
+Blueberry 
++ Classic
+Strawberry 
 + My favorite flower is the calla lily
 
-![Flower](callalilly.jpg)
+![Cheesecake](callalilly.jpg)
+Brownies 
++ chocolate
+double chocolate with almonds
 
-I have artwork in my room that features these beautiful white calla lillies. 
-+ I love junk food
-Candy and Doritoes are my weakness. I probably should exercise more because of this.
++ white chocolate
 
-+ Take a look at [My Favorite Store](https://www.amazon.com)
-
-+ I may also love drinking..
-
-![I love drinking](dionne.png)
-
-+ My favorite make up is [fenty](https://www.fentybeauty.com/)
-
-![](FENTY.jpg)
-## Even more about me...
----
+![Brownies](dionne.png)
 
 
-+ **I was born and raised in Upstate New York. I have never been out of the US until I moved here in October. I have been in Iwakuni for almost 7 months now and I absolutely love it. However, I am adjusting to the food. I love my transfats and processed foods. I'm married and have a 16 year old son. My husband and son like it here as well and they both actually really enjoy the food because they are partial to ramen. I am currently enrolled in [UMUC](https://campus.umuc.edu/) and my favorite class is IFSM 201. I plan on gettong my bachelor's degree in Accounting. The more I learn in IFSM 201, the more I think about changing my major to something more computer centric. I've taken the liberty of writing up a little blurb about computer technology on the next page. Click the IFSM link below and enjoy!**
+
++ **Our marijuana infused pastries are made with the highest quality products. Satisfaction guaranteed
 
 
 
 
-[IFSM](topic)
-
-[HOME](index)
 
