@@ -9,6 +9,8 @@ Strawberry
 + My favorite flower is the calla lily
 
 ![Cheesecake](callalilly.jpg)
+
+
 Brownies 
 + chocolate
 double chocolate with almonds
